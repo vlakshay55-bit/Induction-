@@ -18,3 +18,6 @@ https://github.com/vlakshay55-bit/induction-3.git
 https://github.com/vlakshay55-bit/induction-4.git
 
 ## Day 5
+https://github.com/vlakshay55-bit/induction-5.git
+
+## Day 6
