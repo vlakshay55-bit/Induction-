@@ -8,3 +8,5 @@ first day of induction program is very best
 # after that we visit classrooms and labs which is very great experience , the nature of all the teachers were good towards uss 
 # many teachers were come in our class and tell us about our course 
 so at last i said that day 1 of induction program is very good 
+Day 2
+
