@@ -20,4 +20,5 @@ https://github.com/vlakshay55-bit/induction-4.git
 ## Day 5
 https://github.com/vlakshay55-bit/induction-5.git
 
-## Day 6
+## Day 6 
+https://github.com/vlakshay55-bit/induction-6-.git
